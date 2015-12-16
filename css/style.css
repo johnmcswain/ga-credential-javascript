@@ -1,0 +1,16 @@
+img{
+  width:200px;
+  margin:5px;
+}
+body{
+
+font-family: sans-serif;
+font-size: .7em;
+
+
+}
+div{
+  float:left;
+  text-align: center;
+  height:230px;
+}
