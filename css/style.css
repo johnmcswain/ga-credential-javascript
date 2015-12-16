@@ -9,6 +9,11 @@ font-size: .7em;
 
 
 }
+
+main{
+ width:840px;
+
+}
 div{
   float:left;
   text-align: center;

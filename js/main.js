@@ -1,6 +1,6 @@
 $().ready(function(){
    for (var item in data.list){
-     console.log(data.list[item].image);
-     $('body').append("<div><img src='"+data.list[item].image+"'><br>"+data.list[item].name+"</div>");
+     var result = data.list[item];
+     $('main').append("<div><img src='"+result.image+"'><br>"+result.name+"</div>");
    }
 });
